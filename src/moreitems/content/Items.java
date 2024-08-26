@@ -10,7 +10,7 @@ import mindustry.type.Item;
 
 
 
-public class ArItems {
+public class Items {
 
     public static Item
 
