@@ -7,9 +7,6 @@ name: "moreitems"
 #your name
 author: "Ravi"
 
-#the fully qualified main class of the mod
-main: "Ravi.More.Items"
-
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
 
