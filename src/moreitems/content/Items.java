@@ -76,7 +76,7 @@ public class Items {
 
 
 
-        ArItems.addAll(
+        Items.addAll(
 
                 zinc, boehmite, neodymium, aluminum
 
