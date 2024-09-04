@@ -16,7 +16,7 @@ public class Items {
 
             zinc, boehmite, neodymium, aluminum;
 
-    public static final Seq<Item> ArItems = new Seq<>();
+    public static final Seq<Item> Items = new Seq<>();
 
 
 
