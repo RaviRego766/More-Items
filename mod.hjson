@@ -18,6 +18,7 @@ minGameVersion: 145
 
 #this is a java mod
 java: true
+
 # hide browser
 hideBrowser = true 
 
