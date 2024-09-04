@@ -20,5 +20,5 @@ minGameVersion: 145
 java: true
 
 # hide browser
-hideBrowser = true 
+hideBrowser = false
 
